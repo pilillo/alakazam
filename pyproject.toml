@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "alakazam"
+version = "0.1.0"
+description = ""
+authors = ["pilillo"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langchain = "^0.0.166"
+huggingface-hub = "^0.14.1"
+accelerate = "^0.19.0"
+torch = "^1.13.1"
+transformers = {version = "^4.28.1", extras = ["torch"]}
+bitsandbytes = "^0.38.1"
+streamlit = "^1.22.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
