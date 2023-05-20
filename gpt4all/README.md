@@ -5,3 +5,8 @@ GPT4All is a suite of open-source models trained on nomic-ai instruction [datase
 A streamlit-chat based chat application:
 
 ```streamlit run chat.py```
+
+## QA
+A streamlit based Agent looking on Wikipedia and DuckDuckGo:
+
+```streamlit run qa.py```
