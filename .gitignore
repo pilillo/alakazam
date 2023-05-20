@@ -1,10 +1,11 @@
 *
+!*/
+.idea
+
 !.gitignore
 !pyproject.toml
 
-!red-pajama/README.md
-!red-pajama/*.py
-!red-pajama/img/*
 
-!gpt4all/*.py
-!gpt4all/README.md
+!**/*.md
+!**/*.py
+!**/img/*.png
