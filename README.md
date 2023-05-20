@@ -1,2 +1,2 @@
-# Alakazam
-Tests with LLMs.
+# 🧠 Alakazam
+🥄 Tests with LLMs. 🥄
