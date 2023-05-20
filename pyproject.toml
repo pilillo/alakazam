@@ -14,6 +14,13 @@ torch = "^1.13.1"
 transformers = {version = "^4.28.1", extras = ["torch"]}
 bitsandbytes = "^0.38.1"
 streamlit = "^1.22.0"
+streamlit-chat = "^0.0.2.2"
+streamlit-extras = "^0.2.7"
+hugchat = "^0.0.6.1"
+gpt4all = "^0.2.3"
+pygpt4all = "^1.1.0"
+wikipedia = "^1.4.0"
+duckduckgo-search = "^3.0.2"
 
 [build-system]
 requires = ["poetry-core"]
